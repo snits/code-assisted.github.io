@@ -13,6 +13,6 @@ They are working through quant geek's issues with the math at the moment, but I 
 
 Here they are in action on the items identified by quant geek:
 
-![Implementing Suggested Changes](/assets/img/posts/screen-1.jpeg)
+![Implementing Suggested Changes](/assets/img/posts/2025-08-06/screen-1.jpeg)
 
 I do have some questions for quant-geek and company about the arena dimensions, though. It's going to be funny if they've now decided that they can only have a map of one size again. They sure love that shit. lol. Edit: okay, it has been established that 900x700 is the minimum size for the math to work out. Quant geek has it all scribbled on a dry-erase board.
