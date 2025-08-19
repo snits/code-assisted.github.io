@@ -3,6 +3,51 @@
 
 @import "main";
 
+/* Terminal output styling for Claude responses - PRIORITY STYLES */
+.terminal-output {
+  background-color: #1e1e1e !important;
+  color: #ffffff !important;
+  font-family: "Monaco", "Menlo", "Ubuntu Mono", monospace !important;
+  padding: 1rem !important;
+  border-radius: 4px !important;
+  margin: 1rem 0 !important;
+  white-space: pre-wrap !important;
+  overflow-x: auto !important;
+  font-size: 0.9rem !important;
+  line-height: 1.4 !important;
+}
+
+.terminal-output .symbol-record { 
+  color: #ff6b6b !important; 
+}
+
+.terminal-output .symbol-completed { 
+  color: #51cf66 !important; 
+}
+
+.terminal-output .symbol-pending { 
+  color: #ffd43b !important; 
+}
+
+.terminal-output .symbol-branch { 
+  color: #74c0fc !important; 
+}
+
+.terminal-output .symbol-success {
+  color: #51cf66 !important;
+}
+
+.terminal-output .symbol-info {
+  color: #339af0 !important;
+}
+
+/* Dark mode support enhancements */
+[data-mode="dark"] .terminal-output {
+  background-color: #0d1117;
+  color: #f0f6fc;
+  border: 1px solid #30363d;
+}
+
 /* Custom styles for Code Assisted blog */
 
 /* Homepage enhancements */
@@ -431,50 +476,6 @@
   }
 }
 
-/* Terminal output styling for Claude responses */
-.terminal-output {
-  background-color: #1e1e1e !important;
-  color: #ffffff !important;
-  font-family: "Monaco", "Menlo", "Ubuntu Mono", monospace !important;
-  padding: 1rem !important;
-  border-radius: 4px !important;
-  margin: 1rem 0 !important;
-  white-space: pre-wrap !important;
-  overflow-x: auto !important;
-  font-size: 0.9rem !important;
-  line-height: 1.4 !important;
-}
-
-.terminal-output .symbol-record { 
-  color: #ff6b6b !important; 
-}
-
-.terminal-output .symbol-completed { 
-  color: #51cf66 !important; 
-}
-
-.terminal-output .symbol-pending { 
-  color: #ffd43b !important; 
-}
-
-.terminal-output .symbol-branch { 
-  color: #74c0fc !important; 
-}
-
-.terminal-output .symbol-success {
-  color: #51cf66 !important;
-}
-
-.terminal-output .symbol-info {
-  color: #339af0 !important;
-}
-
-/* Dark mode support enhancements */
-[data-mode="dark"] .terminal-output {
-  background-color: #0d1117;
-  color: #f0f6fc;
-  border: 1px solid #30363d;
-}
 
 [data-mode="dark"] .post-preview {
   border-bottom-color: #30363d;

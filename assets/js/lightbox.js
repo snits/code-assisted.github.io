@@ -237,12 +237,45 @@
   }
 
   /**
+   * Initialize terminal output styling
+   */
+  function initTerminalStyling() {
+    // Ensure terminal-output styling is applied
+    const terminalElements = document.querySelectorAll('.terminal-output');
+    terminalElements.forEach(function(element) {
+      // Force apply styles in case CSS specificity is an issue
+      element.style.cssText = `
+        background-color: #1e1e1e !important;
+        color: #ffffff !important;
+        font-family: "Monaco", "Menlo", "Ubuntu Mono", monospace !important;
+        padding: 1rem !important;
+        border-radius: 4px !important;
+        margin: 1rem 0 !important;
+        white-space: pre-wrap !important;
+        overflow-x: auto !important;
+        font-size: 0.9rem !important;
+        line-height: 1.4 !important;
+      `;
+      
+      // Apply symbol styling
+      const symbols = element.querySelectorAll('.symbol-info');
+      symbols.forEach(function(symbol) {
+        symbol.style.color = '#339af0 !important';
+      });
+    });
+  }
+
+  /**
    * Initialize when DOM is ready
    */
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initLightbox);
+    document.addEventListener('DOMContentLoaded', function() {
+      initLightbox();
+      initTerminalStyling();
+    });
   } else {
     initLightbox();
+    initTerminalStyling();
   }
 
 })();
