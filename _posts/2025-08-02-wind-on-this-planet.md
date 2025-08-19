@@ -9,4 +9,4 @@ author: Jerry
 
 I think there might be some wind on this planet:
 
-![Windy Planet](/code-assisted/assets/img/posts/2025-08-02/windy.jpeg)
+![Windy Planet](/assets/img/posts/2025-08-02/windy.jpeg)

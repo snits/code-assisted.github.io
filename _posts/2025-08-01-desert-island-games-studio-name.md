@@ -9,4 +9,4 @@ author: Jerry
 
 I think we have a name for our lil' virtual studio:
 
-![desert-island-games](/code-assisted/assets/img/posts/2025-08-01/desert-island-games.png)
+![desert-island-games](/assets/img/posts/2025-08-01/desert-island-games.png)

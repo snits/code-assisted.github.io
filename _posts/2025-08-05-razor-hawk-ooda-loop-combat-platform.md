@@ -9,10 +9,10 @@ author: Jerry
 
 The design gets extended a bit:
 
-![Todo List](/code-assisted/assets/img/posts/2025-08-05/screen-2.png)
+![Todo List](/assets/img/posts/2025-08-05/screen-2.png)
 
 
-![Opcodes](/code-assisted/assets/img/posts/2025-08-05/screen-2.png)
+![Opcodes](/assets/img/posts/2025-08-05/screen-2.png)
 
 Apparently, looking at the instructions they are adding, I'll be able to task one with my old job of being a jammer.
 

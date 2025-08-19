@@ -191,6 +191,6 @@ If nothing else, it could probably be *Software Manager: The Game.*
 
 
 
-![Temperature Mode](/code-assisted/assets/img/posts/2025-07-31/screenshot-1.png)
+![Temperature Mode](/assets/img/posts/2025-07-31/screenshot-1.png)
 
-![Simulation Coding](/code-assisted/assets/img/posts/2025-07-31/screenshot-2.jpeg)
+![Simulation Coding](/assets/img/posts/2025-07-31/screenshot-2.jpeg)

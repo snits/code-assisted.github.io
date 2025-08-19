@@ -28,7 +28,7 @@ And the damn thing worked. lol. I spent some time today downloading my posts fro
 
 Those are the journal entries being discussed above. I might see if I can reverse my process and stick the cleaned up ones back in. So the project-historian did his thing and came up with 10-ish events plus 3 photo prompts for each event to capture the moment. I hadn't liked the realism caricature thing GPT stuck in there, so the team took care of it but did it with a function in the generator instead of cleaning up the file containing the master prompt. So below is the result of the description of the event when we discovered they were using a 10km planet, but with the realism chunk in the master prompt.
 
-![10KM Planet](/code-assisted/assets/img/posts/2025-08-10/10km-planet.jpeg)
+![10KM Planet](/assets/img/posts/2025-08-10/10km-planet.jpeg)
 
 
 And that brings me to maybe my favorite moment yet. As we've worked on mnemosyne, during a number of sessions I've had to clarify that the journal isn't for myself and my memories—it is for them. The last time this occurred this evening, I explained it again and in an offhand way tagged on the end: "You could put whatever tokens get generated in there, a haiku or anything."

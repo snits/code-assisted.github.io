@@ -35,7 +35,7 @@ project-scope-guardian
 <span class="symbol-info"><b>Me:</b></span> claude here are pictures of all of the modes<br>
 <span class="symbol-info"><b>Claude:</b></span> wow, look at the rivers, and valleys, and ....
 </div><br>
-![Water World](/code-assisted/assets/img/posts/2025-08-02/screenshot-1.png)
+![Water World](/assets/img/posts/2025-08-02/screenshot-1.png)
 
 <div class="terminal-output">
 <span class="symbol-info"><b>Me:</b></span> <i>wipes glasses off, looks at the screen again.</i><br>
@@ -51,10 +51,10 @@ project-scope-guardian
 </div><br>
 
 
-![Pressure Mode](/code-assisted/assets/img/posts/2025-08-02/pressure.jpeg)
-![Wind Mode](/code-assisted/assets/img/posts/2025-08-02/wind.jpeg)
-![Weather Mode](/code-assisted/assets/img/posts/2025-08-02/weather.jpeg)
-![Temperature Mode](/code-assisted/assets/img/posts/2025-08-02/temperature.jpeg)
+![Pressure Mode](/assets/img/posts/2025-08-02/pressure.jpeg)
+![Wind Mode](/assets/img/posts/2025-08-02/wind.jpeg)
+![Weather Mode](/assets/img/posts/2025-08-02/weather.jpeg)
+![Temperature Mode](/assets/img/posts/2025-08-02/temperature.jpeg)
 
 
 <div class="terminal-output">
@@ -91,14 +91,14 @@ This definitely explains why your atmospheric systems aren't showing interesting
 <span class="symbol-info"><b>world-generation-architect:</b></span> beep, boop, try it now
 </div><br>
 
-![Elevation Mode](/code-assisted/assets/img/posts/2025-08-02/elevation.png)
+![Elevation Mode](/assets/img/posts/2025-08-02/elevation.png)
 
-![Water Level Mode](/code-assisted/assets/img/posts/2025-08-02/water.png)
-![Pressure](/code-assisted/assets/img/posts/2025-08-02/pressure-2.jpeg)
-![Wind](/code-assisted/assets/img/posts/2025-08-02/wind-2.jpeg)
-![Weather](/code-assisted/assets/img/posts/2025-08-02/weather-2.jpeg)
-![Temperature](/code-assisted/assets/img/posts/2025-08-02/temperature-2.jpeg)
-![Sky Planet](/code-assisted/assets/img/posts/2025-08-02/sky.png)
+![Water Level Mode](/assets/img/posts/2025-08-02/water.png)
+![Pressure](/assets/img/posts/2025-08-02/pressure-2.jpeg)
+![Wind](/assets/img/posts/2025-08-02/wind-2.jpeg)
+![Weather](/assets/img/posts/2025-08-02/weather-2.jpeg)
+![Temperature](/assets/img/posts/2025-08-02/temperature-2.jpeg)
+![Sky Planet](/assets/img/posts/2025-08-02/sky.png)
 
 <div class="terminal-output">
 <span class="symbol-info"><b>Me:</b></span> Claude, what is up with the biomes?<br>

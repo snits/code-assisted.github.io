@@ -13,7 +13,7 @@ It is pretty much programming a computer using natural language.
 
 Here is a screenshot of my terminal as it is setting up an mcp server for the ability to use SageMath, which is a collection of math software put together by people.
 
-![SageMath work](/code-assisted/assets/img/posts/2025-08-07/sage.jpeg)
+![SageMath work](/assets/img/posts/2025-08-07/sage.jpeg)
 
 So you can see a little bit above the middle where I am telling it to look at the files that another version of it edited on my other computer that begins with a '>', and down at the very bottom is where I type to it.
 
