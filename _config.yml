@@ -227,6 +227,13 @@ exclude:
 # Repository information for GitHub Pages
 repository: snits/code-assisted
 
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
