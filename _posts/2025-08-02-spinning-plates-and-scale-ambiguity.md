@@ -4,7 +4,6 @@ title: "Spinning Plates, Scale, and the Ambiguity of Language: Finding the 10km 
 date: 2025-08-02 13:45:00 -0700
 categories: [Technical Debugging, Project Management]
 tags: [stanislaw-lem, plate-tectonics, performance-engineering, space-partitioning, physical-size-bugs, world-scale, 50km-worlds, cyberiad-fantasy-physics]
-author: Jerry
 ---
 
 **Spinning plates, scale, the ambiguity of language, and a left turn at Albuquerque**

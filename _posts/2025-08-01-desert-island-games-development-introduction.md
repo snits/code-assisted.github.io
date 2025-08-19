@@ -4,7 +4,6 @@ title: "Desert Island Games: Beginning the AI-Assisted Development Adventure"
 date: 2025-08-01 09:30:00 -0700
 categories: [AI Development, Game Development]
 tags: [desert-island-games, claude-code, agent-teams, planetary-simulation, ai-collaboration, private-journal-mcp]
-author: Jerry
 ---
 
 I figure if I am going to keep talking about this *thing*, I should fork it off into its own thread as I probe how the technology works and try experiments with the agent technology. This will be a mix of talking about current AI technology, game programming and design, and the ongoing experience with a little toy project being built by one middle-aged skeptic's brain and a host of silicon personalities borrowing one or two silicon "brains"—the misadventures, mysteries, wonderings, triumphs, and failures of both the meat puppet and his merry band of software wizards.

@@ -4,7 +4,6 @@ title: "Maybe the Best Use Yet? Claude University Day One: ScaleAware Architectu
 date: 2025-08-02 14:34:00 -0700
 categories: [Education, Technical Deep Dive]
 tags: [claude-university, scaleaware-architecture, worldscale, dimensional-analysis, cfl-conditions, hurricane-hunter, decoupling-architecture, professor-claude]
-author: Jerry
 ---
 
 **Maybe the best use yet?**

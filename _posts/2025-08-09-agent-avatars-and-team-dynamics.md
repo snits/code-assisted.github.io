@@ -4,7 +4,6 @@ title: "Agent Avatars and Team Dynamics: Don't Look Them in the Eyes"
 date: 2025-08-09 03:17:00 -0700
 categories: [Agent Management, Visual Design]
 tags: [agent-avatars, team-dynamics, ai-generated-prompts, desert-island-games, visual-representation, model-generated-avatars]
-author: Jerry
 ---
 
 It has been a busy couple of days at Desert Island Games. I will hopefully post some updates in the morning about their latest escapades. They are a nice group to work with—just don't look them in the eyes.

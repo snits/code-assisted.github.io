@@ -4,7 +4,6 @@ title: "First Week with AI-Assisted Development: From Skeptic to Cautious Conver
 date: 2025-07-31 10:48:00 -0700
 categories: [AI Development, Development Journal]
 tags: [claude-code, ai-agents, workflow, kernel-development, python-refactoring, planetary-simulation, opencode, gemini]
-author: Jerry
 typora-root-url: ./..
 ---
 

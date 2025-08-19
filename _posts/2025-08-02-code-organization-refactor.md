@@ -4,7 +4,6 @@ title: "Code Organization Refactor: Making the Architecture Explicitly Clear"
 date: 2025-08-02 17:03:00 -0700
 categories: [Code Architecture, Project Organization]
 tags: [code-organization, modular-architecture, engine-design, plugin-architecture, fantasy-physics, agent-systems, super-scale-worldscale]
-author: Jerry
 ---
 
 <div class="terminal-output">

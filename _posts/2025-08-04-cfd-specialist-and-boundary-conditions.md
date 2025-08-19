@@ -4,7 +4,6 @@ title: "CFD Specialist and Boundary Conditions: Holy Shit, We Found the Problem!
 date: 2025-08-04 08:46:00 -0700
 categories: [Computational Physics, Problem Solving]
 tags: [cfd-specialist, boundary-conditions, atmospheric-system, outflow-boundaries, geostrophic-winds, computational-fluid-dynamics, m3-ultra-mac-studio, zero-gradient-conditions]
-author: Jerry
 ---
 
 So I start off my morning with Claude figuring out the clean up through the rest of the patch set. Now I can no longer avoid the project's current issue. I think we are bumping up against the fact they are running their simulation in this 2D bounded world with map edges.

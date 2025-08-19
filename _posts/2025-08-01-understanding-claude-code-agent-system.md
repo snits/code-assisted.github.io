@@ -4,7 +4,6 @@ title: "Understanding Claude Code Agent System: Technical Deep Dive"
 date: 2025-08-01 10:41:00 -0700
 categories: [AI Development, Technical Analysis]
 tags: [claude-code, ai-agents, technical-architecture, agent-communication, anthropomorphization, game-design]
-author: Jerry
 ---
 
 Let me dive deeper into the technology and what I've discovered about how this system actually works.

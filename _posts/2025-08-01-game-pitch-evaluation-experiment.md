@@ -4,7 +4,6 @@ title: "Game Pitch Evaluation Experiment: Using AI to Judge AI"
 date: 2025-08-01 11:45:00 -0700
 categories: [AI Development, Game Design]
 tags: [ai-evaluation, game-pitches, prompt-engineering, bias-mitigation, Claude-vs-GPT, design-analysis]
-author: Jerry
 ---
 
 So I know *nothing* about the game industry really, which—having been here in this forum for 20 years—is kind of funny. So I have no idea if the pitch documents make any sense. I'm fairly certain the financial number stuff is pure horseshit, but the rest? *shrugs*. 

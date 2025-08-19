@@ -4,7 +4,6 @@ title: "Project Scale and Agent Competition: When AI Agents Want to Build Everyt
 date: 2025-08-05 02:22:00 -0700
 categories: [Project Management, Agent Coordination]
 tags: [alpha-prime, virtual-sid, language-architect, 96-opcode-vm, bevy-ecs, battle-simulation, agent-competition, vm-core, educational-combat, instruction-budget, heat-management, private-journal-integration]
-author: Jerry
 ---
 
 The view is pretty nice most days here at Desert Island Games. The team is still knee deep in the atmospherics code of their simulation.

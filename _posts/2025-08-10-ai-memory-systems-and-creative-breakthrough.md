@@ -4,7 +4,6 @@ title: "AI Memory Systems and Creative Breakthrough: When Machines Write Poetry 
 date: 2025-08-10 01:18:00 -0700
 categories: [AI Memory, Creative Computing]
 tags: [mnemosyne-setup, sage-math-mcp-server, image-prompt-generation, prompt-engineer-agent, project-historian, copy-editor-agent, ai-memory-breakthrough, haiku-generation, memory-for-ais, token-streams-persist]
-author: Jerry
 ---
 
 I didn't make it back here as I hoped to put up some pictures. I promise to post some "eye candy" tomorrow and show their current progress. Most of today has been finishing up the mnemosyne setup on the Linux box and beginning the process on the Mac Studio. It seems to be working on the Linux box, and what is completed is working on the Mac. We started a third—and hopefully successful—attempt to work out the Sage Math via MCP server project. It does look like we have a good solution this time. So mostly plumbing stuff.

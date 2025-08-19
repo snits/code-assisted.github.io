@@ -4,7 +4,6 @@ title: "Agent Confusion and the Comedy of AI Memory"
 date: 2025-08-01 11:07:00 -0700
 categories: [AI Development, Agent Systems]
 tags: [agent-memory, debugging, ai-agents, private-journal-mcp, context-persistence, agent-confusion]
-author: Jerry
 ---
 
 *Scene fades in: middle-aged man sitting at his standing desk.*

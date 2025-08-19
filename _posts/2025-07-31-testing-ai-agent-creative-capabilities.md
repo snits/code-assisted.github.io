@@ -4,7 +4,6 @@ title: "Testing AI Agent Creative Capabilities: Beyond Technical Tasks"
 date: 2025-07-31 14:45:00 -0700
 categories: [AI Development, Agent Experiments]
 tags: [ai-agents, creative-synthesis, game-design, sub-agents, agent-experiments, simulation-engine, private-journal-mcp]
-author: Jerry
 ---
 
 It has been fun, at times scary or emotional, and fascinating. Am I myself hallucinating when the main model is having trouble getting the rust to compile all of a sudden, and then I say let the simulation-engineer look at it, and he sees this rookie thing we had missed. Did he see it because of his prompt, because of what the model tasked it with, luck from building up its context? I have no clue at the moment, and at some level with this toy project, I don't care.

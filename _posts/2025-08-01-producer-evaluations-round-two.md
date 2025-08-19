@@ -4,7 +4,6 @@ title: "Producer Evaluations Round Two: Agent Communication Mysteries"
 date: 2025-08-01 19:21:00 -0700
 categories: [AI Development, Game Design]
 tags: [ai-evaluation, agent-communication, game-design, producer-evaluation, context-windows, agent-confusion, cascade-dynamics, network-wars, the-confluence]
-author: Jerry
 ---
 
 **The Producer evals round #2**

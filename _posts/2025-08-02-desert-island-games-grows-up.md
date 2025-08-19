@@ -4,7 +4,6 @@ title: "Desert Island Games Grows Up: Adding Project Management and Finding Terr
 date: 2025-08-02 01:32:00 -0700
 categories: [Project Updates, Technical Debugging]
 tags: [project-management, technical-feasibility-engineer, project-scope-guardian, terrain-generation, systems-architect, world-generation-architect, diamond-square, biome-bugs]
-author: Jerry
 ---
 
 **Desert Island Games Grows Up (kind of)**

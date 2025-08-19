@@ -4,7 +4,6 @@ title: "A Design for a Smaller Planet: Fantasy Physics and Agent Competition"
 date: 2025-08-02 14:33:00 -0700
 categories: [System Design, Fantasy Physics]
 tags: [fantasy-physics-system, cyberiad-inspired, stanislaw-lem, 50km-scale, agent-systems, 3-agent-design, simulation-engineer, world-generation-architect]
-author: Jerry
 ---
 
 **A design for a smaller planet**

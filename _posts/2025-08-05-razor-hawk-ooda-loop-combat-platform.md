@@ -4,7 +4,6 @@ title: "RAZOR HAWK OODA Loop Combat Platform: Military Decision Cycle Programmin
 date: 2025-08-05 19:26:00 -0700
 categories: [Robot Programming, Military AI]
 tags: [razor-hawk, ooda-loop, combat-platform, military-designation, decision-tempo-control, observe-orient-decide-act, threat-assessment, tactical-stance, instruction-budget, rapid-reassessment]
-author: Jerry
 ---
 
 The design gets extended a bit:

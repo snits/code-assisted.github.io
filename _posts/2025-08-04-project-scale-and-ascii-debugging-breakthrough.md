@@ -4,7 +4,6 @@ title: "Project Scale and ASCII Debugging Breakthrough: A Continuous Improvement
 date: 2025-08-04 18:49:00 -0700
 categories: [Debugging Innovation, System Analysis]
 tags: [continuous-improvement, cfd-specialist, atmospheric-system-debugging, random-noise-generator, subsystem-assessment, ascii-framebuffer, hardcoded-values, pressure-system, wind-visualization]
-author: Jerry
 ---
 
 It is a continuous improvement process here at Desert Island Games as we try to figure out how to communicate and work together through this interface. We are still chasing ghosts in the atmospheric systems. I ask claude to have the 'science geek' take a look at something, and claude figures out I am talking about the cfd-specialist agent. Computation Fluid Dynamics guy takes a look at the pressure system, and claude comes back with a list of some things to fix. A bit later Claude, or someone else is trolling through the pressure system code, and notices a potential source of problems: the pressure system is being driven by a random noise generator.

@@ -4,7 +4,6 @@ title: "Testing AI Evaluation with an Intentionally Bad Pitch Original: The Quan
 date: 2025-08-03 10:45:00 -0700
 categories: [AI Evaluation, Experimental Testing]
 tags: [intentionally-bad-pitch, quantum-realm-warriors, producer-agent, game-design-strategist, ai-evaluation-testing, control-case, parody-level-fusion, stacked-git, tech-debt-management, great-bender-of-the-bits]
-author: Jerry
 ---
 
 Today had largely been spent on dealing with the tech debt that accumulates when someone does 12-18 months of development in 7 days. I've been using a favored tool of mine from my kernel work, stacked git, to go through the tree, breaking certain things into there own commits, running cargo fmt on each step so there isn't a patch later that is half formatting, and half changes. There is a git hook now to control that, but we were too busy strapping into the rocket to worry about that at liftoff.

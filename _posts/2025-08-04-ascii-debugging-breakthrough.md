@@ -4,7 +4,6 @@ title: "ASCII Debugging Breakthrough: Did the Little Bastards Pull It Off?"
 date: 2025-08-04 10:58:00 -0700
 categories: [Debugging Progress, System Analysis]
 tags: [ascii-debugging, pressure-system-debugging, clamping-issues, lake-water-world, polar-caps, cfd-analysis, physics-implementation]
-author: Jerry
 ---
 
 Did the little bastards pull it off?

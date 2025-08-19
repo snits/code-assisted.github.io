@@ -4,7 +4,6 @@ title: "Terminal UI and Visual Debugging: Comparing Tectonics vs Diamond-Square"
 date: 2025-08-02 13:57:00 -0700
 categories: [Technical Analysis, Visual Development]
 tags: [terminal-ui, ascii-output, plate-tectonics, diamond-square, biome-visualization, terrain-generation, debugging-tools]
-author: Jerry
 ---
 
 Visual comparison shots as we prepare to pivot in another direction.

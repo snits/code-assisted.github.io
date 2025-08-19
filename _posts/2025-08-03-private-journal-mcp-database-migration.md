@@ -4,7 +4,6 @@ title: "Private Journal MCP Database Migration: 846 Entries in One Week"
 date: 2025-08-03 11:32:00 -0700
 categories: [System Administration, Database Migration]
 tags: [private-journal-mcp, sqlite3-migration, 846-entries, embeddings-generation, typescript-engineer, mcp-development, agent-journal-scale, claptrap-voice-prompt]
-author: Jerry
 ---
 
 Another thing that popped up in the morning was that they are generating a lot of entries in their private journals. 846+ in one week. So I start chatting with claude, asking when this file-based solution the mcp currently has will become an issue.

@@ -4,7 +4,6 @@ title: Preamble to the Saga of Desert Island Games
 date: 2025-07-30 17:00:00 -0700
 categories: [Metadata]
 tags: [Desert Island Games]
-author: Jerry Snitselaar 
 ---
 
 

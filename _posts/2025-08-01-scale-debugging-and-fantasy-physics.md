@@ -4,7 +4,6 @@ title: "Scale Debugging and Fantasy Physics: Finding the 60fps Weakness"
 date: 2025-08-01 23:18:00 -0700
 categories: [Technical Analysis, Performance Debugging]
 tags: [performance-analysis, 60fps, 300-agents, scaling-issues, planetary-physics, agent-systems, multi-scale-social-dynamics]
-author: Jerry
 ---
 
 **Breakthrough in BSville?**

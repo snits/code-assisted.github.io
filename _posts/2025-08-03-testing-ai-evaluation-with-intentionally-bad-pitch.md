@@ -4,7 +4,6 @@ title: "Testing AI Evaluation with Intentionally Bad Pitch"
 date: 2025-08-03 10:45:00 -0700
 categories: [AI Agents, Game Design]
 tags: [producer-agent, game-design-strategist, evaluation-bias, control-experiment, ai-testing]
-author: Jerry
 ---
 
 Today had largely been spent on dealing with the tech debt that accumulates when someone does 12-18 months of development in 7 days. I've been using a favored tool of mine from my kernel work, stacked git, to go through the tree, breaking certain things into their own commits, running cargo fmt on each step so there isn't a patch later that is half formatting and half changes. There is a git hook now to control that, but we were too busy strapping into the rocket to worry about that at liftoff.

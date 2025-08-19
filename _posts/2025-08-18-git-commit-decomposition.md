@@ -4,7 +4,6 @@ title: "Recursive Git Commit Decomposition: When AI Agents Clean Up Their Own Me
 date: 2025-08-18 02:00:00 -0700
 categories: [Process, Git]
 tags: [ai-development, process, git, agents]
-author: Jerry Snitselaar 
 ---
 
 # Recursive Git Commit Decomposition

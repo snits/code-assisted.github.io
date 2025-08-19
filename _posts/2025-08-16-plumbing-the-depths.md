@@ -4,7 +4,7 @@ title: Plumbing the Depths of Human-AI Collaboration in Coding
 date: 2025-08-16 16:44:00 -0700
 categories: [AI Memory, Tooling, Plumbing, Process]
 tags: [mnemosyne, metis, alexandria, private-journal-mcp, ai-gatekeeper, reposentry, slash-commands]
-author: Jerry Snitselaar
+mermaid: true
 ---
 
 

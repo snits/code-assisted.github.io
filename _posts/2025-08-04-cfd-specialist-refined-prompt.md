@@ -4,7 +4,6 @@ title: "CFD Specialist Refined Prompt: When Code Analysis Meets Fluid Dynamics"
 date: 2025-08-04 10:42:00 -0700
 categories: [Agent Development, Computational Physics]
 tags: [cfd-specialist, refined-prompt, rust-codebase-analysis, pressure-field-analysis, water-world-conditions, mass-conservation-violations, boundary-condition-problems]
-author: Jerry
 ---
 
 So CFD prompt gave a general response about the likely issues, and then we had simulation-engineer go try to implement it. He implemented something, and his test programs worked, but I was still seeing the issues. Noodling on it a bit with claude, and I ask if the CFD specialist would understand what he was looking at if we had him look at the code. Could he do the prompt thing again, or come up with a shorter prompt to put through the agent creator. 

@@ -4,7 +4,6 @@ title: "Team Pitch Day Evaluation Synthesis: When AI Agents Vote on Game Ideas"
 date: 2025-08-02 14:34:00 -0700
 categories: [Game Design, Agent Collaboration]
 tags: [team-pitch-day, drift-protocol, symbiotic-cities, ux-design-expert, game-design-strategist, technical-feasibility-assessor, social-systems-designer, security-engineer, collaborative-ranking, memory-palace, memory-weavers, symbiosis-protocol, the-archivist]
-author: Jerry
 ---
 
 **Team Pitch Day**

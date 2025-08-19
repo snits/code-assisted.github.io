@@ -4,7 +4,6 @@ title: "Security Concerns and Performance Fixes: When Specialists Disagree"
 date: 2025-08-02 20:23:00 -0700
 categories: [Performance Engineering, Security Analysis]
 tags: [memory-weavers-rejection, memory-palace-concerns, security-engineer, performance-optimization, water-drainage-biomes, simd-improvements, flame-graphs, rust-specialist]
-author: Jerry
 ---
 
 I think it was largely the premise of the game memory weavers that they really didn't like. They weren't keen on memory palace either, but thought I could possibly put some safety protocol in place.

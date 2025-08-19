@@ -4,7 +4,6 @@ title: "Project Cost-Benefit Analysis: From Lark to Professional-Grade Simulatio
 date: 2025-08-01 20:43:00 -0700
 categories: [Project Updates, Development Process]
 tags: [cost-analysis, biome-classification, robert-whittaker, project-evolution, documentation-scale]
-author: Jerry
 ---
 
 Yeah, I probably should've worded it differently—probably go around a few times with a chat model to come up with a prompt to try next time.
