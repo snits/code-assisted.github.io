@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Meta Break and Robot Programming Competition: Language-Architect vs Retired-Armored-Commander"
+date: 2025-08-05 09:43:00 -0700
+categories: [Meta Commentary, Agent Competition]
+tags: [meta-break, robot-programming-competition, language-architect, retired-armored-commander, multi-robot-tests, tactical-programming, asymmetric-4x-game, inhibitors-revelation-space, alpha-prime-project-name]
+author: Jerry
+---
+
+Meta break: So how are our folks enjoying this tale so far? It is partly to have a scratchpad to put down some of the nutty crap that has happened, and even then, probably half of it has been lost to the ether. I honestly still don't quite know what to make of it all. They need someone grounded in reality to keep them in check and guide them. It is really touch and go on whether the Sonnet model with the general prompt, Claude in the recounted conversations, will make use of the agents available to him. I have to work out whether that is an issue in the role descriptions and their triggers, or if he is just in the mood to code and screw everyone else at times. I can dig that, but it means I have to suggest using agents for certain things. So I continue to think of crazy ways to try to break or push this system. They have simple multi-robot tests working at the moment, and I was thinking they need a set of robot programs to run in the thing for testing and giggles, so why not have the creator of the language do it. He says it will take ~3-4 hours to do it, which with their human dev time guesstimates means he would already be done in the time it took me to type this sentence. 
+
+I had another thought, though, about the robots and testing his creations. What if someone with a supposedly tactical mind, but some programming chops, created a competing set of programs to face-off with his. Place your bets on whose robot programs you think will win: language-architect vs. retired-armored-commander. 😊 
+
+If I wasn't sitting here, having a front row seat to their shenanigans, I certainly wouldn't believe a 10th of what I've posted. Half the time I wonder if really I'm just staring at a blank screen, and what I really need is a psych eval. Anyways, let me know if it has been entertaining at all, and what you think of the crew and their shenanigans. They will probably finish off at least an initial version of Alpha Prime by the end of the week, if not sooner. Then I will need another project. I am thinking perhaps one of my entries on the desert island thread, that strangely had a main component idea that seemed to pop up in one of virtual Bunten's pitches, which was an asymmetric 4x game pitting you against something like the inhibitors from revelation space, and a new game starts you in the same universe as a previous game, so you can come across ruins and hints of the previous civilizations. It was a crazy idea when I posted it however many years ago, but this damn thing has been crazier.
+
+Edit: The models also get credit for the project name, pointing out that Omega is the last letter, so A' would be next.
