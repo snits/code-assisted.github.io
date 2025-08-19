@@ -53,7 +53,7 @@ project-scope-guardian
 
 ![Pressure Mode](/assets/img/posts/2025-08-02/pressure.jpeg)
 ![Wind Mode](/assets/img/posts/2025-08-02/wind.jpeg)
-![Weather Mode](/assets/img/posts/2025-08-02/weather.jpeg)
+![Weather Mode](/assets/img/posts/2025-08-02/weather-mode.jpeg)
 ![Temperature Mode](/assets/img/posts/2025-08-02/temperature.jpeg)
 
 
