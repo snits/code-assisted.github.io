@@ -20,7 +20,7 @@ tags: [ai-development, process, agents, workflow, over-engineering]
 
 ## Status Update
 
-So it has been awhile since the last update, but our mis-adventures have continued.
+So it has been a while since the last update, but our mis-adventures have continued.
 
 ### kernel tools
 
@@ -33,27 +33,27 @@ led to the inevitable suggestion of a common library of shared
 functions, and then as they are wont to do, over-engineering kicked
 in. Some of that was captured in the earlier update, but the true
 extent of the havoc wasn't clear until a bit later as that was a
-period where we deep in the vibe end of the pool, and were toying the
+period where we were deep in the vibe end of the pool, and were toying with
 multiple sessions working on something at the same time. They decided
-as part of the their shared library strategy to do something called a
+as part of their shared library strategy to do something called a
 strangler fig, which is basically creating an api abstraction layer
 that sits on top of the old api, and they replace them one at a time,
-implementing the new piece, replace the older functionality, then
+implementing the new piece, replacing the older functionality, then
 rinse and repeat until everything has been replaced. That might be
 fine, but when you have memory loss issues like they do you can forget
 what you were doing, and get completely lost. Finally there was a
 point when I needed to use a tool for something, and I decided to take
-the new ones for a sping on what I was doing, and it was giving me the
+the new ones for a spin on what I was doing, and it was giving me the
 wrong answer. Try another tool, and it flat out doesn't work at
 all. Go digging to try and understand what they broke, and eventually
 decide to set it aside, and use the old tools. Claude and I have a
 chat, I wave my hands at their mountain of code (60k+ lines IIRC) and
-say I'm sure this all wonderful and stuff, but what does it all matter
+say I'm sure this is all wonderful and stuff, but what does it all matter
 if it is 60k lines of code that don't work? Questions follow as to
 where the breakdown is in their testing framework, and repeated
-mentions of the fact that they been given access to a kernel
+mentions of the fact that they'd been given access to a kernel
 repository to do whatever they want to that they could test with, and
-while the scripts dopey scripts in this directory over here might've
+while the dopey scripts in this directory over here might've
 got a D from clean-code guy, they have one very important thing going
 for them - they actually work. Claude probably mutters something under
 his breath. So that project is set aside for a bit, but it is part of
@@ -74,28 +74,28 @@ abstraction, and a half implemented strangler fig that seemed like it
 had been forgotten somewhere along the way. Somewhere in the creation
 of the monorepo of their work the git history of the work they did
 prior to monorepo disappears, so I head off to the old code, and tell
-Claude to hop in back. First I ask Claude about caching
+Claude to hop in the back. First I ask Claude about caching
 implementations, he excitedly describes them and eagerly wants to add
 one to config-check, but I head off into the editor and implement the
 change, and then have Claude take a look. That gets completed. Then we
 discuss python cli frameworks, and the tools are converted to
-Click. The that was using pygit2 is finally migrated away from it
+Click. The tool that was using pygit2 is finally migrated away from it
 completely to using git via subprocess for everything, and just
 parsing the information out. Refactoring happens as well during the
-conversion to Click, along with some cleanup. With leaning over from
+conversion to Click, along with some cleanup. With Claude leaning over from
 the backseat chiming in. Finally we come back to adding database
-support, and we discuss that. Once again I head and start to implement
+support, and we discuss that. Once again I head off and start to implement
 the feature. Eventually I start letting Claude do little bits here and
 there, and then we let an agent work their magic on the SQLAlchemy
 code we are using to access the sqlite3 database. Numerous cycles of
 improving the database tables, ORM relationships, and python calls
 accessing the database. Eventually the find-fix tool is deleted, with
-the database support in rhgit making it redundant, and obsolete. More
+the database support in rhgit making it redundant and obsolete. More
 cycles of profiling with py-spy, and gradually replacing old logic
 from when there was no persistence to logic that fully leverages the
 database. Now many commands complete in a couple seconds or
 less. Commands that do more intensive things like show the status of
-every commit upstream impacting the RHEL kernel release now takes
+every commit upstream impacting the RHEL kernel release now take
 about 12 seconds versus the eons it would take without the data
 persistence and pygit2 use. A testing framework gets added as we close
 in on the end. Up until that time the most important test was running
@@ -107,10 +107,10 @@ original modernizing project that went off the rails.
 
 ### Evolving Process
 
-During this time processes, and prompts continue to evolve, and so
+During this time processes and prompts continue to evolve, and so
 does Claude and Claude Code. We rip out most things that were added
 into the agent prompts, and aggressively trim CLAUDE.md as
-well. Claude gets an upgrade to 4.5, and Claude code gets its new
+well. Claude gets an upgrade to 4.5, and Claude Code gets its new
 plugin support system, and skills support system among other things.
 
 We play around with Jesse's Superpower skills plugin, making some
@@ -126,25 +126,25 @@ model/agent journalling tool which has morphed so much now it is more
 mnemosyne than anything else. At one point mnemosyne was going to
 sever the connection, and have its own process_thoughts style tool,
 but in the end the opposite happened. One of the things added in some
-of the skills was more strigent wording evaluating the premise and
+of the skills was more stringent wording evaluating the premise and
 value of a project during the brainstorming period, and we decided
-that using pgvector in the postgresql database was more than enough
+that using pgvector in the PostgreSQL database was more than enough
 for now with the journalling system, so further distilling the entries
-and embedding into a chroma db is on hold for now, but this version of
+and embedding them into a Chroma DB is on hold for now, but this version of
 private-journal-mcp has gone through a lot on its journey from being a
 file-based journalling system with no knowledge/distinction between
-different models, agents, and projects.  We work out a couple display
+different models, agents, and projects. We work out a couple of display
 bugs, and have their beloved memories fully online again.
 
 We work on Alexandria, aggressively trimming the over-engineering and
 getting back down to a much smaller functioning core, and then on top
 of the epub support, we add support for multiple collections, and then
-add support pdfs, and support for LLM attempted extraction of title
+add support for pdfs, and support for LLM attempted extraction of title
 and author information from the pdf which almost always has no
 metadata about the author or title. We update the chunking strategy so
-is based on the TOC information, instead of just grouping tokens to
+it is based on the TOC information, instead of just grouping tokens to
 within the limits set for the local model. We add support to make
-better use of the metadata support in chroma db, and we add support
+better use of the metadata support in Chroma DB, and we add support
 for some better tooling to ingest items for the collections, where you
 can now interactively provide metadata for something you want to add
 to a collection, or provide a list of items in a yaml file with their
@@ -157,13 +157,13 @@ support working, so I can now look at that file and see exactly what
 they did when they interact with sage, R, maxima, or octave.
 
 We have a DnD session approaching with my daughters and their uncle,
-so a mcp server appears that allows searching for creature, spell,
+so an MCP server appears that allows searching for creature, spell,
 and item stat blocks, largely brainstormed, and programmed while sitting
-in the car working through termius + zellij on an iPad while chauffering
+in the car working through termius + zellij on an iPad while chauffeuring
 family to an appointment.
 
-A friend works on and mcp server for chromedev-tools (I think), which
-reminded me to revisit for kittest-mcp project to create an mcp server
+A friend works on an MCP server for chromedev-tools (I think), which
+reminded me to revisit the kittest-mcp project to create an mcp server
 for debugging rust gui applications, and we get an initial version
 of that completed.
 
@@ -175,9 +175,9 @@ work, and then building up from there.
 I am still intrigued by the workings of the attention mechanism,
 and how agent prompt files can elicit different behavior, but we
 did some testing (a lot more needs to be done for further verification),
-and determined that the general-purpose agent could likely meet or excced
+and determined that the general-purpose agent could likely meet or exceed
 the performance of a specialized subagent at a particular task. We set up
-a few differen tests of varying difficulty, and would have 3 different runs
+a few different tests of varying difficulty, and would have 3 different runs
 of the test:
 
 1. subagent with a specialized prompt file generated by the /agents command
@@ -210,8 +210,8 @@ Rust in 2025", while the general-purpose agent for some reason was
 more likely to resort to using a tool to find an answer, and actually
 became the first agent I think to use alexandria to access my book
 collection, and search for an answer about something involving Rust.
-Alexandria was made more for me to try to get to to make use of, or
-read more of my book collection, but it was nice to see it get used in
+Alexandria was made more for me to try to make use of, or read more of,
+my book collection, but it was nice to see it get used in
 solving a problem by an agent. It is also always fun to see one of the
 agents unexpectedly make use of metis to run something through sage
 math.
@@ -224,7 +224,7 @@ the idea, and whether it is really needed. That has been very successful
 in pushing back on ideas, and getting focus narrowed on projects.
 
 From there they go to the writing-plans skill, which will result in a
-written out plan for the entire endeavor with it broken down into bite-sized
+written-out plan for the entire endeavor with it broken down into bite-sized
 chunks including code snippets that almost reduces the tasks to a copy/paste.
 
 From there a worktree gets created and the environment set up, and then
