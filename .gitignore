@@ -26,3 +26,5 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 .obsidian/
+.devcontainer/
+.kata.local.toml
